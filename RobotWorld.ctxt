@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RobotWorld
+comment0.text=\n\ Esta\ es\ la\ clase\ que\ contiene\ el\ mundo\ de\ juego\ de\ RobotWorld.\n\ \n\ @author\ Diego\ Prieto\ \n\ @version\ 03/03/2020\n
+comment1.params=
+comment1.target=RobotWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ RobotWorld.\n\ \n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\n
+numComments=3
